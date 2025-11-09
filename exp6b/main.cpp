@@ -1,3 +1,5 @@
+//4.	Write a program for distance vector algorithm to find suitable path for transmission.
+
 #include <iostream>
 #include <vector>
 #include <iomanip>
@@ -74,3 +76,4 @@ int main() {
     distance_vector_routing(n, routers, cost);
     return 0;
 }
+
